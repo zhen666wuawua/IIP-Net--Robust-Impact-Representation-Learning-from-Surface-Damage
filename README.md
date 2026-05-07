@@ -12,7 +12,7 @@ IIP-Net is a **non-contact indirect measurement system** for quantitative recons
 
 ### Experimental System
 
-#### 1. Laboratory: Dynamic Stabbing Test (SPFCT-2000)
+#### 1. Laboratory: Dynamic Stabbing Test
 
 The standardized drop-weight stabbing system complies with **NIJ Standard 0115.00**.
 
