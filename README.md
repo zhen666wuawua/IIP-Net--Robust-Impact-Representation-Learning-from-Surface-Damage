@@ -86,7 +86,7 @@ A shallow CNN directly regresses the three impact parameters from the segmented 
 Key impact parameters predicted by IIP-Net ($E_k$, $F$, $N$) are fed into nine ML classifiers to identify which participant performed each stab. Best result with **KNN**: accuracy 92.50%, precision 94.47%, recall 92.50%, F1 92.27%.
 
 <div style="text-align: center;">
-  <img src="/figs/image7.png" alt="TraceNet Architecture" style="width: 100%; max-width: 800px;">
+  <img src="/figs/image7.png" alt="TraceNet Architecture" style="width: 60%; max-width: 800px;">
 </div>
 
 *Fig. 3. Performance comparison of nine ML classifiers.*
